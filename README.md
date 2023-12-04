@@ -1,6 +1,6 @@
 # Quasar web frontend example
 
-Quasar example for web application frontend, which is composed of Vue 3, Vite, TS, Router and Pinia
+Quasar example for web application frontend, which is composed of Vue 3, Vite, TypeScript, Router and Pinia
 
 ## Install the dependencies
 
