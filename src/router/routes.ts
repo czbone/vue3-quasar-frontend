@@ -1,5 +1,4 @@
 import { RouteRecordRaw } from 'vue-router'
-
 import MainLayout from '@/layouts/MainLayout.vue'
 import Index from '@/pages/Index.vue'
 import About from '@/pages/About.vue'

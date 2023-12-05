@@ -6,7 +6,6 @@ import quasarLang from 'quasar/lang/ja' // 日本語対応
 // CSS読み込み
 import '@quasar/extras/material-icons/material-icons.css' // フォントアイコン
 import 'quasar/src/css/index.sass' // Quasar CSS
-import './styles/app.scss' // CSSをカスタマイズ
 
 import App from './App.vue'
 import router from './router'
