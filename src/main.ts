@@ -4,7 +4,7 @@ import { Quasar } from 'quasar'
 import quasarLang from 'quasar/lang/ja' // 日本語対応
 
 // CSS読み込み
-import '@quasar/extras/material-icons/material-icons.css' // フォントアイコン
+import '@quasar/extras/material-icons/material-icons.css' // アイコンフォント
 import 'quasar/src/css/index.sass' // Quasar CSS
 
 import App from './App.vue'
